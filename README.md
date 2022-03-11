@@ -8,7 +8,7 @@ I have an unconditional offer to study games programming in September 2022 at [L
 My primary coding languages are C# and python, however use VB.NET, Haskell, JS, HTML, CSS and Assembly
 
 ### Current Projects
-* Turn-Based Strategy Game using Minimax AI (C# with untiy)
+* Turn-Based Strategy Game using Minimax AI (C# with unity)
 * Dijkstra + Adjacency Matrix and Graph Simulator (VB.Net)
 
 ![My AI Game](https://user-images.githubusercontent.com/95696952/157920906-1c66a703-0c18-44f6-9e05-fb6d4a421d3f.png)
