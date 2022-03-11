@@ -9,9 +9,11 @@ My primary coding languages are C# and python, however use VB.NET, Haskell, JS, 
 
 ### Current Projects
 * Turn-Based Strategy Game using Minimax AI (C# with unity)
-* Dijkstra + Adjacency Matrix and Graph Simulator (VB.Net)
-
 ![My AI Game](https://user-images.githubusercontent.com/95696952/157920906-1c66a703-0c18-44f6-9e05-fb6d4a421d3f.png)
+
+* Dijkstra + Adjacency Matrix and Graph Simulator (VB.Net)
+![My Dijksta Simulator](https://user-images.githubusercontent.com/95696952/157934381-071f34b0-880f-4a92-9ea9-fd19fe1b4def.png)
+
 
 ### Certifications and Achivements
 
