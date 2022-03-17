@@ -8,7 +8,7 @@ I have an unconditional offer to study games programming in September 2022 at [L
 My primary coding languages are C# and python, however use VB.NET, Haskell, JS, HTML, CSS and Assembly
 
 ### Current Projects
-* Doing some work on [Not Quite Paradise](https://github.com/Snayff/nqp2)
+* Doing some work on the game - [Not Quite Paradise 2](https://github.com/Snayff/nqp2)
 
 * Turn-Based Strategy Game using Minimax AI (C# with unity)
 ![My AI Game](https://user-images.githubusercontent.com/95696952/157934979-55718f7a-6353-4422-9258-29c5230f28ad.png)
