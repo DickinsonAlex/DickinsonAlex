@@ -10,7 +10,7 @@ My primary coding languages are C# and python, however use VB.NET, Haskell, JS, 
 ### Current Projects
 * Doing some work on the game - [Not Quite Paradise 2](https://github.com/Snayff/nqp2)
 
-* Jame Gam #17: Rat-Cave(https://dickinsonalex.itch.io/rat-cave)
+* Jame Gam #17: [Rat-Cave](https://dickinsonalex.itch.io/rat-cave)
 
 * Turn-Based Strategy Game using Minimax AI (C# with unity)
 ![My AI Game](https://user-images.githubusercontent.com/95696952/157934979-55718f7a-6353-4422-9258-29c5230f28ad.png)
