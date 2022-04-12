@@ -8,8 +8,6 @@ I have an unconditional offer to study games programming in September 2022 at [L
 My primary coding languages are C# and python, however use VB.NET, Haskell, JS, HTML, CSS and Assembly
 
 ### Current Projects
-* Collaborator for - [Not Quite Paradise 2](https://github.com/Snayff/nqp2)
-
 * Jame Gam #17 - [Rat-Cave](https://dickinsonalex.itch.io/rat-cave)
 
 * Turn-Based Strategy Game using Minimax AI (C# with unity)
@@ -18,6 +16,8 @@ My primary coding languages are C# and python, however use VB.NET, Haskell, JS, 
 * Dijkstra + Adjacency Matrix and Graph Simulator (VB.Net)
 ![My Dijksta Simulator](https://user-images.githubusercontent.com/95696952/157934914-0d00c81d-644d-46ee-bef3-b4afdb1878cd.png)
 
+### Past Projects
+* Collaborated on - [Not Quite Paradise 2](https://github.com/Snayff/nqp2)
 
 ### Certifications and Achivements
 
