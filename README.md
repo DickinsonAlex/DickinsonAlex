@@ -24,6 +24,7 @@ My primary coding languages are C# and python, however use VB.NET, Haskell, JS, 
 Programming
 * C# (HackerRank)
 * SQL (HackerRank)
+* Javascript (HackerRank)
 * Problem Solving (HackerRank)
 * Python (HackerRank)
 * Team Leader - Cyber Centurions 2019
