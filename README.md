@@ -1,6 +1,6 @@
 ### About Me
 
-I'm Alex, an 18-year-old developer. I'm currently studying Games Computing at [Lincoln University](https://www.lincoln.ac.uk/).
+I'm Alex, an 19-year-old developer. I'm currently studying Games Computing at [Lincoln University](https://www.lincoln.ac.uk/).
 
 ### Programming Languages 🤖
 * C# with Unity (HackerRank Certified)
@@ -28,7 +28,7 @@ I'm Alex, an 18-year-old developer. I'm currently studying Games Computing at [L
 
 ### Reach Me 👨‍💻
 
-* My Site : [Digital Sky Studios](digitalskystudios.co.uk)
+* My Organisation's Site : [Digital Sky Studios](digitalskystudios.co.uk)
 * Discord : Dicko#9826
 * Linkedin : [Alex Dickinson](https://www.linkedin.com/in/alex-dickinson-/)
 
