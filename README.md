@@ -1,6 +1,6 @@
 ### About Me
 
-I'm Alex, an 19-year-old developer. I'm currently studying Games Computing at [Lincoln University](https://www.lincoln.ac.uk/). I enjoy challenging myself mentally with coding, philosophy, and other similar problem-solving activities. My aim is to one day create my own successful game development studio.
+I'm currently studying Games Computing at [Lincoln University](https://www.lincoln.ac.uk/). I enjoy challenging myself mentally with coding, philosophy, and other similar problem-solving activities. My aim is to one day create my own successful game development studio.
 
 ### Key Skills
 * Problem Solving
