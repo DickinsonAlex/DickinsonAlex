@@ -17,7 +17,7 @@ I'm Alex, an 19-year-old developer. I'm currently studying Games Computing at [L
 
 ### Current Projects (WIP)
 ### Past Projects
-* Seconds to Slash - A survival game (C# with unity)
+* Seconds to Slash - A survival game made for a small university project(C# with unity)
 ![SecondsToSlash](https://user-images.githubusercontent.com/95696952/214324175-ec870f88-5739-4e1c-a8d9-e547fc118203.jpg)
 
 * [Starship Sustainer](https://digitalsky.itch.io/starship-sustainer) - A top down puzzle game made for the UoL CanJam over 48 hours (C# with unity)
