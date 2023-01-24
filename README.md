@@ -24,7 +24,8 @@ I'm Alex, an 19-year-old developer. I'm currently studying Games Computing at [L
 ![Starship Sustainer](https://user-images.githubusercontent.com/95696952/214324915-b3ac8552-02f9-4d13-bdc2-49b8c688c692.png)
 
 * [Prison Breaker](https://digitalsky.itch.io/kill-explode-repeat) - An isometric survival game made for the UoL 24 Hour Game Jam (C# with unity)
-![PrisonBreak](https://user-images.githubusercontent.com/95696952/204287213-52bf9817-a264-4567-b6b8-40fa1af3029c.png)
+![PrisonBreak](https://user-images.githubusercontent.com/95696952/214326173-ad752c39-d38b-4e3a-8093-9ba876aeca86.png)
+
 
 * [Phantom Network](https://digitalsky.itch.io/phantom-network) - Turn-Based Strategy Game using Minimax AI (C# with unity)
 ![My AI Game](https://user-images.githubusercontent.com/95696952/157934979-55718f7a-6353-4422-9258-29c5230f28ad.png)
