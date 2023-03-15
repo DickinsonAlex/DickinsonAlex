@@ -2,18 +2,11 @@
 
 I'm currently studying Games Computing at [Lincoln University](https://www.lincoln.ac.uk/). I'm a skilled problem solver and programmer with expertise in C# and Python. I thrive on tackling complex challenges and problem solving. I'm the director of Digital Sky Studios, working on a procedurally generated dungeon crawler game.
 
-### Key Skills
-* Problem Solving
-* Programming
-* Graphic Design
-* Organisation
 
 ### Programming Languages 🤖
 * C# with Unity (HackerRank Certified)
 * Python (HackerRank Certified)
-* Javascript with HTML and CSS (HackerRank Certified)
 * VB.Net
-* Additional Experience with Haskell, SQL, and Assembly
 
 ### Current Projects (WIP)
 ### Past Projects
