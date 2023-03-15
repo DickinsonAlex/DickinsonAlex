@@ -1,6 +1,6 @@
 ### About Me
 
-I'm currently studying Games Computing at [Lincoln University](https://www.lincoln.ac.uk/). I enjoy challenging myself mentally with coding, philosophy, and other similar problem-solving activities. My aim is to one day create my own successful game development studio.
+I'm currently studying Games Computing at [Lincoln University](https://www.lincoln.ac.uk/). I'm a skilled problem solver and programmer with expertise in C# and Python. I thrive on tackling complex challenges and problem solving. I'm the director of Digital Sky Studios, working on a procedurally generated dungeon crawler game.
 
 ### Key Skills
 * Problem Solving
