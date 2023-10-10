@@ -15,5 +15,3 @@ I am currently working on my first commercial release, Dungeon Delvers. You can 
 ### Reach Me 👨‍💻
 * Discord: Dicko#9826
 * Linkedin: [Alex Dickinson](https://www.linkedin.com/in/alex-dickinson-/)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DickinsonAlex&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
