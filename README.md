@@ -4,6 +4,17 @@ I'm a second-year Game Computing student at the University of Lincoln, passionat
 
 https://github.com/DickinsonAlex/DickinsonAlex/assets/95696952/1a93a22b-8e70-4a7d-9b54-4d237d68989e
 
+### Short Games
+•	An FPS runner game in Unity.
+•	A 3D Foddian Story Game in Unity.
+•	An Isometric hack-and-slash game in Unity.
+•	2D Puzzle Games.
+•	2D Platformers in Unity.
+•	A Turn-Based Strategy with AI in Unity.
+•	Minesweeper in C#.
+•	Wordsearch Generator in Visual Basic.
+•	Maze Generator in Visual Basic.
+
 ### Skills 🤖
 Strong proficiency in multiple programming languages, C#, Python, VB.net, and C++.
 Solid foundation in game development principles, algorithms, and data structures.
