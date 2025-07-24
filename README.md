@@ -18,5 +18,5 @@ Hey! I’m Alex - a technical and adaptable developer with a strong foundation i
 - ⚙️ Looking for full-time work!
 
 ## Reach Me 👨‍💻
-Discord: Dicko#9826
-Linkedin: Alex Dickinson
+- Discord: alx.v33
+- Linkedin: Alex Dickinson
